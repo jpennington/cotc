@@ -1,0 +1,21 @@
+body {
+margin: 0;
+padding: 0
+}
+#bg {
+background-color: rgb(255, 252, 242)
+}
+#header {
+height: 3em;
+line-height: 3em;
+font-size: 5em;
+background-color: orange;
+padding-left: 55px;
+text-align: center;
+font-family: 'Staatliches', cursive;
+color: #ffffff
+}
+#text {
+font-family: verdana;
+padding: 10em
+}
