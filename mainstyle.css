@@ -17,5 +17,6 @@ color: #ffffff
 }
 #text {
 font-family: verdana;
-padding: 10em
+padding: 10em;
+border-left: 0.1rem solid grey
 }
