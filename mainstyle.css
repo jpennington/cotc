@@ -15,8 +15,11 @@ text-align: center;
 font-family: 'Staatliches', cursive;
 color: #ffffff
 }
-#text {
+.text {
 font-family: verdana;
-padding: 10em;
-border-left: 0.1rem solid grey
+padding: 10em
+}
+#textbox {
+border-left: 0.1em solid #C0c0c0;
+padding: 0.5em
 }
